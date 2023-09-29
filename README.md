@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oluwafunso Oluyole-Balogun</h1>
 <h3 align="center">Full Stack Developer</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/oluwafunso-oluyole-balogun-17a1b3b5/" target="_blank">Linkedin</a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/oluwafunso_" target="blank"><img src="https://img.shields.io/twitter/follow/oluwafunso_?logo=twitter&style=for-the-badge" alt="oluwafunso_" /></a> </p>
 
